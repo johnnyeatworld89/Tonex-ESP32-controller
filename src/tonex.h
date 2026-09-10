@@ -17,7 +17,7 @@ struct TonexState
 
     uint16_t presetNumber;
 
-    char presetName[32];
+    const char* presetName;
 };
 
 extern TonexState tonexState;
