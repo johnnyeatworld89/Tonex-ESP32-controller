@@ -1,5 +1,7 @@
 #pragma once
 
+#include <stdint.h>
+
 struct TonexState
 {
     uint8_t gain;
