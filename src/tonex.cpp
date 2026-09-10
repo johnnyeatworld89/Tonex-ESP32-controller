@@ -15,5 +15,5 @@ TonexState tonexState =
 
     17,
 
-    "JCM800 MOD"
+    {'J','C','M','8','0','0',' ','M','O','D','\0'}
 };
